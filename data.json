@@ -1,0 +1,10 @@
+{
+  "full_name" : "Sanket Gupta",
+  "title" : "Product Creator",
+  "links" : [
+      { "blog"     : "http://someideastoshare.wordpress.com" },
+      { "facebook" : "http://facebook.com/towardsthequest" },
+      { "twitter"  : "http://twitter.com/sanket107" },
+      { "youtube"  : "http://www.youtube.com/planetoftheweb" }
+    ]
+}
